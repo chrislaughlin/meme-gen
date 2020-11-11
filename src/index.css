@@ -17,10 +17,16 @@ body {
     align-items: center;
 }
 
+.meme-photo {
+    position: relative;
+}
+
 .meme-photo img {
     width: 400px;
 }
 
 .meme-text {
     margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
 }
