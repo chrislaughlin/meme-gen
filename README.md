@@ -12,4 +12,4 @@ Meme generator using 98.css, react-draggable and styled-components
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser. 
 
 
-![Screenshot](https://github.com/chrislaughlin/stories-noone-wanted/blob/main/demo.gif?raw=true)
+![Screenshot](https://github.com/chrislaughlin/meme-gen/blob/main/Screenshot%202021-01-23%20at%2011.39.41.png?raw=true)
